@@ -136,8 +136,8 @@ hr.star-primary:after {
 
 header {
     text-align: center;
-    color: #000;
-    background: url(../img/home.jpg) no-repeat center center fixed;
+    color: #fff;
+    background: url(../img/NatGeo17.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
