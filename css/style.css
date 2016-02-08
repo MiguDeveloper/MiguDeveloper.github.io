@@ -265,7 +265,7 @@ section.success a.active {
     margin-top: -68px;
 }
 
-button.hire-button.text-center {
+button.hire-button.text-center, a.hire-button.text-center{
     margin: 0 auto;
     display: block;
     background-color:transparent;
