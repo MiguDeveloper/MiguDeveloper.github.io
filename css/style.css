@@ -137,7 +137,7 @@ hr.star-primary:after {
 header {
     text-align: center;
     color: #fff;
-    background: url(../img/NatGeo17.jpg) no-repeat center center fixed;
+    background: url(../img/creative-apple-desk-office.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -147,11 +147,11 @@ header {
   /* Set rules to fill background */
   min-height: 100%;
   min-width: 1024px;
-    
+
   /* Set up proportionate scaling */
   width: 100%;
   height: auto;
-    
+
   /* Set up positioning */
   position: fixed;
   top: 0;
@@ -345,10 +345,10 @@ img.img-test {
 
    .text-side-right{
     text-align: right;
-    } 
+    }
     .text-side-left {
     text-align: left;
-    } 
+    }
 }
 
 p.text-circle {
