@@ -66,6 +66,10 @@ p {
      font-size: 17px;
  }
 
+ i.normal{
+     font-weight: normal;
+ }
+
 p.small {
     font-size: 16px;
 }
