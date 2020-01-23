@@ -19,6 +19,9 @@ section#experience {
     width: 64px;
 }
 
+p.list-text-p{
+    font-size: 12px;
+}
 .sm-title {
     position: relative;
     top: 26px;
